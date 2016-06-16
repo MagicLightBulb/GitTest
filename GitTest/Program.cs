@@ -15,5 +15,10 @@ namespace GitTest
         {
             Console.WriteLine("Did a thing!");
         }
+
+        static void More()
+        {
+            
+        }
     }
 }
