@@ -20,5 +20,10 @@ namespace GitTest
         {
             
         }
+
+        static void AnotherTest()
+        {
+            
+        }
     }
 }
