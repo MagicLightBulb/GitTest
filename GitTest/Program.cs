@@ -5,25 +5,33 @@ using System.Text;
 
 namespace GitTest
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
         }
 
-        static void Test()
+        private static void Test()
         {
             Console.WriteLine("Did a thing! Uh...Oooh!");
         }
 
-        static void More()
+        private static void More()
         {
-            
+
         }
 
-        static void AnotherTest()
+        private static void AnotherTest()
         {
-            
+
+        }
+    }
+
+    internal class NewThing
+    {
+        public NewThing()
+        {
+
         }
     }
 }
