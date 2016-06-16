@@ -14,7 +14,7 @@ namespace GitTest
 
         static void Test()
         {
-            Console.WriteLine("Did a thing!");
+            Console.WriteLine("Did a thing! Uh...Oooh! Aaah!");
         }
 
         static void More()
