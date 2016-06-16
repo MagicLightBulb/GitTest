@@ -33,5 +33,10 @@ namespace GitTest
         {
 
         }
+
+        static void DoThing()
+        {
+            
+        }
     }
 }
