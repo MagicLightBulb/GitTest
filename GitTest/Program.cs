@@ -13,7 +13,7 @@ namespace GitTest
 
         static void Test()
         {
-            
+            Console.WriteLine("Did a thing!");
         }
     }
 }
