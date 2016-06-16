@@ -21,5 +21,10 @@ namespace GitTest
         {
             
         }
+
+        static void Shrug()
+        {
+            
+        }
     }
 }
